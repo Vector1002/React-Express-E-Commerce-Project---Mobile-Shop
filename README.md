@@ -2,7 +2,7 @@
 
 ## 🔰 Live Preview Projects:
 
-- Complete "Mobile Shop | E-Commerce" Project - [Click To Live Preview][mobile-shop]
+- Complete "Mobile Shop | E-Commerce" Project -
 
 <br />
 
